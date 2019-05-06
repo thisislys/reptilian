@@ -1,0 +1,27 @@
+{
+  "name": "nodereptilian",
+  "version": "1.0.25",
+  "description": "图片爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuya227939/reptilian.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "readme": "test",
+  "readmeFilename": "README.md",
+  "author": "xuya227939",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuya227939/reptilian/issues"
+  },
+  "homepage": "https://github.com/xuya227939/reptilian#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
